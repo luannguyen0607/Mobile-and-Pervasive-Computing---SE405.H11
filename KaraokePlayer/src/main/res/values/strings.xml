@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Karaoke Player</string>
+    <string name="missconnect">Your network is unreach. Please turn on network and re-try it again.</string>
+    <string name="nothingSong">Not available songs to download</string>
+    <string name="missing_content">Some field is missing</string>
+    <string name="app_version">1</string>
+    <string name="table_downloaded">Downloaded Songs</string>
+    <string name="table_avaiable">Avaiable Songs</string>
+    <string name="song_num">Song Number</string>
+    <string name="song_name">Song Name</string>
+    <string name="song_singer">Singer Name</string>
+    <string name="update_song">Update Songlist</string>
+    <string name="update_soft">Update Software</string>
+
+</resources>
